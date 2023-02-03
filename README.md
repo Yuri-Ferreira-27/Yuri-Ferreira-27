@@ -26,5 +26,6 @@ Focado atualmente em C#, .NET, Python e JavaScript
   <img align="center" alt="Yuri-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="center" alt="Yuri-JavaScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Yuri-C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Yuri-VisualStudio" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>       <img align="center" alt="Yuri-PyCharm" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>                                                                                                                       
 
 </div>
