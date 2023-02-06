@@ -1,6 +1,6 @@
 ## 👨‍💻 Olá, Seja bem vindo!
 
-Eu sou Yuri Carvalho Ferreira
+Meu nome é Yuri Carvalho Ferreira
 
 Desenvolvedor back-end em formação / Estagiário em Desenvolvimento de Sistemas na Unisys
 
