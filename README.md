@@ -6,7 +6,7 @@ Desenvolvedor back-end em formação / Estagiário em Desenvolvimento de Sistema
 
 Estudande de Sistemas de Informação cursando o 8º Período 
 
-Focado atualmente em C#, .NET, Python e JavaScript
+Focado atualmente em C#, .NET, Python, Machine Learning e JavaScript
 
 <div>
   
