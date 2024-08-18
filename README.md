@@ -2,7 +2,7 @@
 
 Meu nome é Yuri Carvalho Ferreira
 
-Desenvolvedor back-end em formação / Estagiário em Desenvolvimento de Sistemas na Unisys
+Analista de Sistemas na Unisys
 
 Estudande de Sistemas de Informação cursando o 8º Período 
 
