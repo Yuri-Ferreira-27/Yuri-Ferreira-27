@@ -4,9 +4,9 @@ Meu nome é Yuri Carvalho Ferreira
 
 Analista de Sistemas na Unisys
 
-Estudande de Sistemas de Informação cursando o 8º Período 
+Graduado me Sistemas de Informação 
 
-Focado atualmente em C#, .NET, Python, Machine Learning e JavaScript
+Focado atualmente em C#, .NET, Python, Machine Learning e Inteligência Artificial
 
 <div>
   
